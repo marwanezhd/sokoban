@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** move_p.c
-** File description:
-** desc
-*/
-
 #include "../include/sokoban.h"
 
 int *found_p(char **tab)
