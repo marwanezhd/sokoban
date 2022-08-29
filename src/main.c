@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** main.c
-** File description:
-** desc
-*/
-
 #include "../include/sokoban.h"
 
 int error_management(int ac, char **av)

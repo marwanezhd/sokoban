@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** game.c
-** File description:
-** desc
-*/
-
 #include "../include/sokoban.h"
 
 char **even_key(int key, char **tab, int *coord)

@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** check_win_lose.c
-** File description:
-** desc
-*/
-
 #include "../include/sokoban.h"
 
 int check_win(char **tab)

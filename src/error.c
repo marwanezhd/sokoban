@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** error.c
-** File description:
-** desc
-*/
-
 #include "../include/sokoban.h"
 
 int valid_file(char const *file)

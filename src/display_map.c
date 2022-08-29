@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** display_map.c
-** File description:
-** desc
-*/
-
 #include "../include/sokoban.h"
 
 int display_map(char **tab)

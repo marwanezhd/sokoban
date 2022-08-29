@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** memory_management.c
-** File description:
-** desc
-*/
-
 #include "../include/sokoban.h"
 
 int count_line(char const *map)

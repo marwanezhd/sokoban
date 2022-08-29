@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** annexes.c
-** File description:
-** desc
-*/
-
 #include "../include/sokoban.h"
 
 int my_strlen(char const *str)

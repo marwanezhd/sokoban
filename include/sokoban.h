@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** sokoban.h
-** File description:
-** prototypes
-*/
-
 #include <stddef.h>
 #include <unistd.h>
 #include <stdlib.h>

@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** help.c
-** File description:
-** desc
-*/
-
 #include "../include/sokoban.h"
 
 void help(void)
